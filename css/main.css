@@ -1,15 +1,16 @@
-/**/
+/*Dando un tipo de fuente a todo el formato*/
 *{
     font-family: 'Indie Flower', cursive;
 }
 
-/**/
+/*Aplicando margenes de distancia*/
 body{
     margin-top: 0px;
     margin-left: 20px;    
 }
 
-/**/
+/*utilizando el display en linea de elementos en bloque y dando 
+forma especifica con box sizing*/
 div{
     box-sizing: border-box;
     margin-left: 10px;
@@ -17,7 +18,7 @@ div{
     display: inline-block;
 }
 
-/**/
+/*dando color y tamaño a los elementos div*/
 .orange{
     height: 30px;
     width: 100px;
