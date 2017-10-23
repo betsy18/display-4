@@ -1,1 +1,22 @@
-ECHO is on.
+*{
+    font-family: 'Indie Flower', cursive;
+}
+
+body{
+    margin-left: 30px;    
+}
+
+div{
+    height: 50px;
+    width: 70px;
+    box-sizing: border-box;
+    margin-left: 20px;
+}
+
+.orange{
+    background: #ffc107;
+}
+
+.black{
+    background: black;
+}
